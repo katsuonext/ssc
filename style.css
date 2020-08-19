@@ -70,7 +70,7 @@ h1 {
   margin-left: 50px;
 }
 .rightspace {
-  margin-left: 20px;
+  margin-left: 40px;
 }
 .cv__ttl {
   background-color: #3ccace;
@@ -78,7 +78,7 @@ h1 {
 }
 .menu-button {
   height: 70px;
-  background-color: crimson;
+  /* background-color: crimson; */
 }
 .main-menu {
   height: 70px;
@@ -137,7 +137,7 @@ img {
 }
 
 .main__box1 {
-  background-image: url(3414530_m.jpeg);
+  background-image: url(img/img_nature/26553_m.jpg);
   height: 600px;
   width: 100%;
   background-size: cover;
