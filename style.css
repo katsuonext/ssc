@@ -212,6 +212,15 @@ img {
 .lede {
   padding-left: 60px;
 }
+.two {
+  padding-left: 60px;
+}
+.three {
+  padding-left: 60px;
+}
+.four {
+  padding-left: 60px;
+}
 .br-pc {
   padding-left: 60px;
 }
@@ -256,6 +265,9 @@ img {
 .main__box3__box2 h2 {
   padding-left: 60px;
   font-size: 40px;
+}
+.main_box3 {
+  margin-bottom: 60px;
 }
 .main__box5__box2 h2 {
   font-size: 40px;
@@ -320,7 +332,9 @@ img {
   flex-direction: column;
   align-items: center;
 }
-
+.main_box3_title {
+  padding: 60px 60px 0px 60px;
+}
 .main__box3__box1__image1 {
   position: relative;
   margin-bottom: 20px;
@@ -393,4 +407,33 @@ img {
   float: left;
   list-style: none;
   margin: 30px;
+}
+
+.main__box5 {
+  background-image: url(img/img_dog/15468.jpg);
+  height: 550px;
+  width: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top center;
+  /* padding: 0 60px; */
+  display: flex;
+  align-items: center;
+  /* background-color: dodgerblue; */
+  padding: 30px 10px;
+  margin-top: 60px;
+}
+
+.main__box5__box {
+  display: flex;
+  max-width: 1020px;
+  width: 100%;
+}
+.main__box5__box__box1__image1 {
+  position: relative;
+  margin-bottom: 20px;
+}
+.main__box5__contents {
+  padding-left: 60px;
+  font-size: 40px;
 }
